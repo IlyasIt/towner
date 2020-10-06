@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/towner/static/css/main.c3f34b9e.chunk.css",
-    "main.js": "/towner/static/js/main.f5da8e49.chunk.js",
-    "main.js.map": "/towner/static/js/main.f5da8e49.chunk.js.map",
+    "main.js": "/towner/static/js/main.ca50f0ee.chunk.js",
+    "main.js.map": "/towner/static/js/main.ca50f0ee.chunk.js.map",
     "runtime-main.js": "/towner/static/js/runtime-main.01d830aa.js",
     "runtime-main.js.map": "/towner/static/js/runtime-main.01d830aa.js.map",
     "static/css/2.86df01db.chunk.css": "/towner/static/css/2.86df01db.chunk.css",
     "static/js/2.7592c152.chunk.js": "/towner/static/js/2.7592c152.chunk.js",
     "static/js/2.7592c152.chunk.js.map": "/towner/static/js/2.7592c152.chunk.js.map",
     "index.html": "/towner/index.html",
-    "precache-manifest.50b863cf8b0784eeb5488334874d6edb.js": "/towner/precache-manifest.50b863cf8b0784eeb5488334874d6edb.js",
+    "precache-manifest.92eaff9472b8be6acb900ac76dab6437.js": "/towner/precache-manifest.92eaff9472b8be6acb900ac76dab6437.js",
     "service-worker.js": "/towner/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/towner/static/css/2.86df01db.chunk.css.map",
     "static/css/main.c3f34b9e.chunk.css.map": "/towner/static/css/main.c3f34b9e.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.7592c152.chunk.js",
     "static/css/main.c3f34b9e.chunk.css",
-    "static/js/main.f5da8e49.chunk.js"
+    "static/js/main.ca50f0ee.chunk.js"
   ]
 }
