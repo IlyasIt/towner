@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "30c4a04ce6be69f8e1df7231b3b80422",
+    "revision": "a31bd1c025758bc2712e5921af8b35a9",
     "url": "/towner/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/towner/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "547176f379e8953ad88a",
+    "revision": "46e617e023f0afa73cbe",
     "url": "/towner/static/css/main.ce6c2253.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/towner/static/js/2.c1717293.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "547176f379e8953ad88a",
-    "url": "/towner/static/js/main.429518e1.chunk.js"
+    "revision": "46e617e023f0afa73cbe",
+    "url": "/towner/static/js/main.c12458aa.chunk.js"
   },
   {
     "revision": "e9de405d4a49c8aabfee",
