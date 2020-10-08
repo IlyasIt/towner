@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/towner/static/css/main.ce6c2253.chunk.css",
-    "main.js": "/towner/static/js/main.c12458aa.chunk.js",
-    "main.js.map": "/towner/static/js/main.c12458aa.chunk.js.map",
+    "main.css": "/towner/static/css/main.b045ab6f.chunk.css",
+    "main.js": "/towner/static/js/main.58a5b70f.chunk.js",
+    "main.js.map": "/towner/static/js/main.58a5b70f.chunk.js.map",
     "runtime-main.js": "/towner/static/js/runtime-main.01d830aa.js",
     "runtime-main.js.map": "/towner/static/js/runtime-main.01d830aa.js.map",
     "static/css/2.86df01db.chunk.css": "/towner/static/css/2.86df01db.chunk.css",
     "static/js/2.c1717293.chunk.js": "/towner/static/js/2.c1717293.chunk.js",
     "static/js/2.c1717293.chunk.js.map": "/towner/static/js/2.c1717293.chunk.js.map",
     "index.html": "/towner/index.html",
-    "precache-manifest.62f00b84c2d354ea8848f0e3e597c524.js": "/towner/precache-manifest.62f00b84c2d354ea8848f0e3e597c524.js",
+    "precache-manifest.ef0bbe56102a3b0d2b38d1f9243ce7e7.js": "/towner/precache-manifest.ef0bbe56102a3b0d2b38d1f9243ce7e7.js",
     "service-worker.js": "/towner/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/towner/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.ce6c2253.chunk.css.map": "/towner/static/css/main.ce6c2253.chunk.css.map",
+    "static/css/main.b045ab6f.chunk.css.map": "/towner/static/css/main.b045ab6f.chunk.css.map",
     "static/js/2.c1717293.chunk.js.LICENSE.txt": "/towner/static/js/2.c1717293.chunk.js.LICENSE.txt",
     "static/media/AvatarApp.png": "/towner/static/media/AvatarApp.4818ec8b.png",
     "static/media/arrow.svg": "/towner/static/media/arrow.7aac8323.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.01d830aa.js",
     "static/css/2.86df01db.chunk.css",
     "static/js/2.c1717293.chunk.js",
-    "static/css/main.ce6c2253.chunk.css",
-    "static/js/main.c12458aa.chunk.js"
+    "static/css/main.b045ab6f.chunk.css",
+    "static/js/main.58a5b70f.chunk.js"
   ]
 }
