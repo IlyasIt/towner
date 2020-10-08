@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2efa0faf244ca4b19422606b3d1cc2f1",
+    "revision": "bc1f1f88aa89d6c776b21d22a2a9fa41",
     "url": "/towner/index.html"
   },
   {
-    "revision": "be7e4e14f67555e090bf",
+    "revision": "de785af6743892623748",
     "url": "/towner/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "6e444646eb538ab75770",
+    "revision": "afe5c9ac0a9f81ac1fd0",
     "url": "/towner/static/css/main.b045ab6f.chunk.css"
   },
   {
-    "revision": "be7e4e14f67555e090bf",
-    "url": "/towner/static/js/2.83803f99.chunk.js"
+    "revision": "de785af6743892623748",
+    "url": "/towner/static/js/2.03ea8a86.chunk.js"
   },
   {
-    "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/towner/static/js/2.83803f99.chunk.js.LICENSE.txt"
+    "revision": "0d2572a88b364817964e936e89e4aa39",
+    "url": "/towner/static/js/2.03ea8a86.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e444646eb538ab75770",
-    "url": "/towner/static/js/main.a4c57b34.chunk.js"
+    "revision": "afe5c9ac0a9f81ac1fd0",
+    "url": "/towner/static/js/main.1628c843.chunk.js"
   },
   {
     "revision": "e9de405d4a49c8aabfee",
